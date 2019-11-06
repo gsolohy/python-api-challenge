@@ -3,6 +3,7 @@
 * Due on Tuesday: October 22, 2019
 
 ### Task: What's the weather like as we approach the equator
+* Disclaimer: If you open jupyter notebook from github, markdown analysis part of notebook's numbering appears as all 1 instead of 1,2,3,4 accordingly.
 
 ## python-api-challenge folder: 
 * NotUsed - WeatherPy_starter.ipynb : referenced as example solution
